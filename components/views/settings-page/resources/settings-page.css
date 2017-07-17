@@ -1,0 +1,4 @@
+/** Styles related to the "Glindr Server" plugin settings page. **/
+.gc-nomargin {
+	margin: 0 !important;
+}
